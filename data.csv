@@ -1,0 +1,51 @@
+ResponseId,LanguageHaveWorkedWith
+1,
+2,HTML/CSS;JavaScript;Python
+3,Bash/Shell (all shells);Go
+4,Bash/Shell (all shells);HTML/CSS;JavaScript;PHP;Ruby;SQL;TypeScript
+5,HTML/CSS;JavaScript;TypeScript
+6,Bash/Shell (all shells);HTML/CSS;JavaScript;Ruby;SQL;TypeScript
+7,Ada;Clojure;Elixir;Go;HTML/CSS;Java;JavaScript;Lisp;OCaml;Raku;Ruby;Scala;Swift;TypeScript;Zig
+8,Go;HTML/CSS;JavaScript;Python;Rust;SQL;TypeScript
+9,C#;JavaScript;PowerShell;Ruby;TypeScript
+10,HTML/CSS;Java;JavaScript;Python;SQL;TypeScript
+11,C#;C++;HTML/CSS;JavaScript;Python
+12,C#;HTML/CSS;JavaScript;Kotlin;PowerShell;Python;SQL;TypeScript
+13,Bash/Shell (all shells);Elixir;HTML/CSS;JavaScript;Ruby;Solidity;TypeScript
+14,C;C++;Python;Rust
+15,Java;Perl;TypeScript
+16,Bash/Shell (all shells);Dart;Go;Haskell;HTML/CSS;Java;JavaScript;Kotlin;PHP;SQL;TypeScript
+17,JavaScript;TypeScript
+18,HTML/CSS;JavaScript;SQL;TypeScript
+19,Assembly
+20,Java;JavaScript;TypeScript
+21,JavaScript;PHP;Ruby;TypeScript
+22,Bash/Shell (all shells);Delphi;HTML/CSS;PHP;PowerShell;Python;SQL
+23,HTML/CSS;JavaScript;TypeScript
+24,Bash/Shell (all shells);C++;PowerShell;Python
+25,Clojure;PHP
+26,Go;Ruby
+27,Bash/Shell (all shells);C#;Go;JavaScript;PHP;Rust;TypeScript
+28,Bash/Shell (all shells);C;C#;C++;HTML/CSS;Java;JavaScript;PHP;PowerShell;Python;R;Scala;SQL;TypeScript
+29,HTML/CSS;JavaScript
+30,Elixir;Go;Java;JavaScript;PHP;Ruby
+31,Go;JavaScript;Python
+32,Bash/Shell (all shells);Go;HTML/CSS;JavaScript;Python;SQL;TypeScript
+33,Java;JavaScript;Lua;Python;SQL;TypeScript
+34,TypeScript
+35,HTML/CSS;PHP;SQL
+36,Bash/Shell (all shells);C;HTML/CSS;Java;JavaScript;MATLAB;Python;Rust;TypeScript
+37,C#;HTML/CSS;JavaScript;SQL;TypeScript
+38,Bash/Shell (all shells);Java;JavaScript;PowerShell;Python;Rust;SQL;TypeScript
+39,C#;Java;JavaScript;Kotlin;PowerShell;Python;TypeScript
+40,HTML/CSS;JavaScript;Python
+41,C;C++;Python
+42,HTML/CSS;JavaScript;PHP;TypeScript
+43,JavaScript
+44,HTML/CSS;JavaScript;SQL;TypeScript
+45,HTML/CSS;JavaScript;TypeScript
+46,Bash/Shell (all shells);Go;Rust;TypeScript
+47,C#;HTML/CSS;JavaScript;PHP;PowerShell;SQL;TypeScript
+48,HTML/CSS;JavaScript;Kotlin;PHP
+49,C#;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript
+50,HTML/CSS;JavaScript;PHP;TypeScript
