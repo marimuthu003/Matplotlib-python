@@ -4,4 +4,5 @@
  2.creating bar charts and anlayzing the data.
 
  3.creating pie charts.
- 
+
+ 4.creating stack plots.
