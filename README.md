@@ -6,3 +6,6 @@
  3.creating pie charts.
 
  4.creating stack plots.
+
+ 5.filling plots according to median values.
+
