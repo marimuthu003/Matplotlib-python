@@ -9,3 +9,6 @@
 
  5.filling plots according to median values.
 
+ 6.creating Scatter plots and plotting the youtube trending videos data by viewcounts and likes acoordding to ratios.
+
+ 
